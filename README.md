@@ -64,7 +64,7 @@ The work is ongoing and currently focused on validating the modelling pipeline a
 - Run `reconstruction.py` to see the full workflow where a generated seabed is split into windows, input into the CNN and the outputs are pieced together to form a continuous cable shape prediction.
 - Alternatively, download the `.html` plots in `/reconstruction_plots` and open them in the browser
 
-![Example:](/images/newplot (26).png)
+<img width="2032" height="967" alt="newplot (28)" src="https://github.com/user-attachments/assets/7c3ec5c8-d3c4-46e1-93e7-a69155521b6c" />
 
 ## Future Work
 1. Add user drawn cable routes, span statistics and span hotspot visualisations
