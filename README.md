@@ -66,6 +66,10 @@ The work is ongoing and currently focused on validating the modelling pipeline a
 
 <img width="2032" height="967" alt="newplot (28)" src="https://github.com/user-attachments/assets/7c3ec5c8-d3c4-46e1-93e7-a69155521b6c" />
 
+<img width="2032" height="967" alt="newplot (27)" src="https://github.com/user-attachments/assets/58fc9a24-c964-4889-b7c3-583334cd21cb" />
+
+<img width="2032" height="967" alt="newplot (26)" src="https://github.com/user-attachments/assets/3936f85c-d054-493f-b71f-41efd3606f94" />
+
 ## Future Work
 1. Add user drawn cable routes, span statistics and span hotspot visualisations
 2. Enforcing physics constraints in the final predicted cable shape
